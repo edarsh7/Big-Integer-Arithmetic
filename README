@@ -1,0 +1,33 @@
+/*------------------------------
+
+Edmond Arshakyan
+earshaky
+pa3
+
+-------------------------------*/
+
+------
+README
+------
+
+
+FILES INCLUDED IN pa3
+-----------------------
+
+Arithmetic.c        Top level client for the project
+
+BigInteger.c        BigInteger implementation file
+
+BigInteger.h        BigInteger header file
+
+BigIntegerTest.c    test suite for the BigInteger ADT
+
+List.c              List implementation file
+
+List.h              List header file
+
+ListTest.c          test suite for the List ADT
+
+README              Contents of the project
+
+Makefile            
