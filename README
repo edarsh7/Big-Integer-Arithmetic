@@ -1,17 +1,15 @@
-/*------------------------------
+
 
 Edmond Arshakyan
-earshaky
-pa3
-
--------------------------------*/
 
 ------
 README
 ------
 
+Large number arithmetic program. Multiplication, addition, subtraction
 
-FILES INCLUDED IN pa3
+
+FILES INCLUDED IN
 -----------------------
 
 Arithmetic.c        Top level client for the project
