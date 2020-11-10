@@ -1,6 +1,4 @@
 #------------------------------------------------------------------------------
-#  Makefile for CSE101 Programming Assignment 4
-#
 #  make                     makes BigIntegerClient
 #  make clean               removes all binaries
 #  make memcheck            runs BigInteger Client under valgrind
