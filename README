@@ -6,7 +6,7 @@ Edmond Arshakyan
 README
 ------
 
-Large number arithmetic program. Multiplication, addition, subtraction
+A program that utilizes data structures in C++ and allows quick arithmetic (addition, subtraction, multiplication) of numbers that are extremely large.
 
 
 FILES INCLUDED IN
